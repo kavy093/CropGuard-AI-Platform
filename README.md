@@ -19,5 +19,3 @@ CropGuard is an AI-driven platform designed to classify 38 different types of pl
 * **Deep Learning:** TensorFlow, Keras (CNN)
 * **Web Framework:** Streamlit
 * **Image Processing:** OpenCV, PIL
-
-## 📸 Project Goals & Conclusion
